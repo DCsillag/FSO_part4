@@ -1,0 +1,18 @@
+{
+  "name": "part4",
+  "version": "1.0.0",
+  "description": "Bloglist",
+  "license": "ISC",
+  "author": "DCsillag",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0"
+  }
+}
